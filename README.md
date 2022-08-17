@@ -1,5 +1,3 @@
-# contratacao-de-servicos
-
 # Sistema de contratação de serviços 
 
 * Tecnologia em Análise e Desenvolvimento de Sistemas
