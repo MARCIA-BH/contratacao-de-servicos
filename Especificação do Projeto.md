@@ -5,7 +5,7 @@
 ## Personas:
 <p align="justify">As personas que ajudaram na criação do processo de entendimento do problema são apresentadas que se seguem. </p>
 
-## Nome: Carloos Alberto Silva
+## Nome: Carlos Alberto Silva
  - Idade: 65 anos.
  - Ocupação: Aposentado.
  - Aplicativos: Facebook, Instagram, WhatsApp.
