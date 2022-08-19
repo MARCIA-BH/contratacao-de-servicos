@@ -21,7 +21,7 @@
 
 ## Orientador
 
-* Bernardo Jeunon de Alencar
+* Mateus Curcino De Lima
 
 ## Instruções de utilização
 
