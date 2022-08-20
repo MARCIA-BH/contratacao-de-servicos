@@ -122,10 +122,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre letivo, não podendo extrapolar a data de 29/06/2022|
+|01| O projeto deverá ser entregue até o final do semestre letivo, não podendo extrapolar a data de 07/12/2022|
 |02|A equipe de desenvolvimento não pode subcontratar o desenvolvimento do trabalho.|
-|03|A manipulação dos dados do sistema deve ser realizada através da linguagem de banco de dados SQL e armazenadas no SQL Server.|
-|04|O sistema deve conter um módulo de back-end.|
+|03|A manipulação dos dados do sistema deve ser realizada através da linguagem React Native|
+|04|O sistema deve conter um módulo de simulação Json Server.|
 
 ## Diagrama de Casos de Uso
 
