@@ -84,21 +84,21 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |ID| Descrição  |Prioridade                 |
 |--------------------|------------------------------------|----------------------------------------|
-|RF-01| O site deve possibilitar ao usuário (cliente e fornecedor de serviços) fazer login, se cadastrar ou alterar sua senha  |Alta|
-|RF-02| O site deve conter uma lista pré-estabelecida de serviços que poderão ser selecionados pelo fornecedor de serviços (como serviço oferecido) e pelo cliente (como serviço desejado) | Média|
+|RF-01| O aplicativo deve possibilitar ao usuário (cliente e fornecedor de serviços) fazer login, se cadastrar ou alterar sua senha  |Alta|
+|RF-02| O aplicativo deve conter uma lista pré-estabelecida de serviços que poderão ser selecionados pelo fornecedor de serviços (como serviço oferecido) e pelo cliente (como serviço desejado) | Média|
 |RF-03| O site deve permitir ao cliente selecionar um serviço (da lista pré-estabelecida) e solicitar seu orçamento, podendo também adicionar informações sobre o serviço requerido  | Alta |
-|RF-04| O site deve permitir ao fornecedor enviar prosposta| Alta|
-|RF-05| O site deve permitir ao cliente o agendamento do serviço escolhido após ter recebido e aprovado o orçamento do mesmo | Alta | 
-|RF-06| O site deve permitir ao cliente adicionar o serviço (com seu orçamento previamente aprovado) a uma lista de serviços/carrinho de compras | Alta |
-|RF-07| O site deve permitir ao cliente efetuar o pagamento pelo serviço(s) prestado(s) | Média | 
-|RF-08| O site deve permitir ao cliente realizar a avaliação do serviço prestado pelo fornecedor | Baixa|
-|RF-09| O site deve permitir ao fornecedor o recebimento online pelo serviços prestados |Alta| 
-|RF-10| O site deve permitir ao cliente visualizar o contato e as avaliações referentes aos fornecedores| Baixa|
+|RF-04| O aplicativo deve permitir ao fornecedor enviar prosposta| Alta|
+|RF-05| O aplicativo deve permitir ao cliente o agendamento do serviço escolhido após ter recebido e aprovado o orçamento do mesmo | Alta | 
+|RF-06| O aplicativo deve permitir ao cliente adicionar o serviço (com seu orçamento previamente aprovado) a uma lista de serviços/carrinho de compras | Alta |
+|RF-07| O aplicativo deve permitir ao cliente efetuar o pagamento pelo serviço(s) prestado(s) | Média | 
+|RF-08| O aplicativo deve permitir ao cliente realizar a avaliação do serviço prestado pelo fornecedor | Baixa|
+|RF-09| O aplicativo deve permitir ao fornecedor o recebimento online pelo serviços prestados |Alta| 
+|RF-10| O aplicativo deve permitir ao cliente visualizar o contato e as avaliações referentes aos fornecedores| Baixa|
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
+|RNF-001| O sistema deve ser responsivo para rodar em um site | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 
 <p align="justify">Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:</p>
