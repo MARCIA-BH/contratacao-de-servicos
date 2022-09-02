@@ -17,6 +17,7 @@
 * Marcelo dos Santos Farias
 * Moisés Hastenraiter Da Silva
 * Mário César de Souza Fernandes
+* Ruver Clacyus Oliveira Caldeira
 
 
 ## Orientador
