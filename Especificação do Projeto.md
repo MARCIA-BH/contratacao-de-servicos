@@ -132,3 +132,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ![diagrama 2](https://user-images.githubusercontent.com/93413365/160945983-90031405-1c96-4f23-b36d-18d2efef5a8f.jpg)
 <p align="center">Figura 1 - Diagrama de Casos de Uso</p>
+
+
+## Matriz de Rastreabilidade
+
+![diagrama 3](Matriz de Rastreabilidade (1).xlsx)
+<p align="center">Figura 1 - Matriz de Rastreabilidade</p>
+Matriz de Rastreabilidade (1).xlsx
