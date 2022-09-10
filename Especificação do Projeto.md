@@ -136,5 +136,5 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Matriz de Rastreabilidade
 
-![diagrama 3](MARCIA-BH/contratacao-de-servicos/Pasta1.xlsx)
+(MARCIA-BH/contratacao-de-servicos/Pasta1.xlsx)
 <p align="center">Figura 2 - Matriz de Rastreabilidade</p>
