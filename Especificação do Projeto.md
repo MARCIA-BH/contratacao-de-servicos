@@ -136,6 +136,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Matriz de Rastreabilidade
 
-![diagrama 3](Matriz de Rastreabilidade (1).xlsx)
+![diagrama 3](Pasta1.xlsx)
 <p align="center">Figura 1 - Matriz de Rastreabilidade</p>
 Matriz de Rastreabilidade (1).xlsx
